@@ -6,7 +6,7 @@ Use it to rapidly explore what's possible with AI in Business Central, build pro
 
 Available in sandbox environments starting with v27.2; the latest v27.4 minor update adds additional development options. Get started here [Designing and coding agents in Business Central (preview)](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/ai/ai-development-toolkit-landing-page). 
 
-We'd love your feedback! We'll update this post with walkthrough videos soon.
+We'd love your feedback! Learn more about how you provide feedback [here](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/ai/ai-development-toolkit-faq#provide-feedback). We'll update this post with a link to walkthrough videos soon.
 
 # 2025-11-17 MCP Server for Business Central is now in public preview
 
