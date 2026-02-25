@@ -1,3 +1,13 @@
+# 2026-02-25 AI development toolkit is now in public preview
+
+The AI development toolkit lets you prototype and iterate on AI-powered agents directly in Business Central sandbox environments; no AL code required. Design prompts, test agent behavior against live UI and data, and validate scenarios before you commit to a full AL implementation.
+
+Use it to rapidly explore what's possible with AI in Business Central, build proof-of-concept demos, and define requirements for production-ready extensions.
+
+Available in sandbox environments starting with v27.2; the latest v27.4 minor update adds additional development options. Get started here [Designing and coding agents in Business Central (preview)](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/ai/ai-development-toolkit-landing-page). 
+
+We'd love your feedback! We'll update this post with walkthrough videos soon.
+
 # 2025-11-17 MCP Server for Business Central is now in public preview
 
 At Directions EMEA 2025, we announced that the public preview of MCP Server for Business Central is available in 27.1. Are you curious to learn more? Take a look at the following resources for developing external agents for Business Central using the Model Context Protocol (MCP):
