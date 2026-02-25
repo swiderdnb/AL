@@ -1,4 +1,4 @@
-# 2026-02-25 AI development toolkit is now in public preview
+# 2026-02-25 Prototype with the AI development toolkit (public preview)
 
 The AI development toolkit lets you prototype and iterate on AI-powered agents directly in Business Central sandbox environments; no AL code required. Design prompts, test agent behavior against live UI and data, and validate scenarios before you commit to a full AL implementation.
 
