@@ -6,7 +6,7 @@ Whether you're a consultant, product owner, domain expert, or developer, you can
 
 Available in sandbox environments starting with v27.2; the latest v27.4 minor update adds additional development options. Get started here [Designing and coding agents in Business Central (preview)](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/ai/ai-development-toolkit-landing-page). 
 
-Ramp up quickly with our new walkthrough videos that show you how to use the toolkit to design, test, and iterate on agents in Business Central. Check them out [here](https://aka.ms/BCDesignAgents).
+Ramp up quickly with our new walkthrough videos that show you how to use the toolkit to design, test, and iterate on agents in Business Central. Check them out [aka.ms/BCDesignAgents](https://aka.ms/BCDesignAgents).
 
 We'd love your feedback! Learn more about how you provide feedback [here](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/ai/ai-development-toolkit-faq#provide-feedback). 
 
