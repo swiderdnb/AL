@@ -1,6 +1,8 @@
 # 2026-02-25 Envision, design and code Business Central agents with the AI development toolkit (public preview)
 
-The AI development toolkit lets you prototype and iterate on AI-powered agents directly in Business Central sandbox environments; no AL code required. Design prompts, test agent behavior against live UI and data, and validate scenarios before you commit to a full AL implementation.
+With V27.4 minor update you can now envision, design and code Business Central agents using the AI development toolkit.
+
+Whether you are a consultant, product owner, domain expert or developer, you can start the journey prototyping AI-powered agents directly in Business Central sandbox environments using an in-client agent design experience; no AL code required. Design prompts, test agent behavior against live UI and data, and validate scenarios, including with prospect customers, before you commit to a full AL implementation. 
 
 Use it to rapidly explore what's possible with AI in Business Central, build proof-of-concept demos, and define requirements for production-ready extensions.
 
