@@ -4,8 +4,6 @@ With V27.4 minor update you can now envision, design and code Business Central a
 
 Whether you are a consultant, product owner, domain expert or developer, you can start the journey prototyping AI-powered agents directly in Business Central sandbox environments using an in-client agent design experience; no AL code required. Design prompts, test agent behavior against live UI and data, and validate scenarios, including with prospect customers, before you commit to a full AL implementation. 
 
-Use it to rapidly explore what's possible with AI in Business Central, build proof-of-concept demos, and define requirements for production-ready extensions.
-
 Available in sandbox environments starting with v27.2; the latest v27.4 minor update adds additional development options. Get started here [Designing and coding agents in Business Central (preview)](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/ai/ai-development-toolkit-landing-page). 
 
 We'd love your feedback! Learn more about how you provide feedback [here](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/ai/ai-development-toolkit-faq#provide-feedback). We'll update this post with a link to walkthrough videos soon.
