@@ -1,16 +1,16 @@
 # 2026-02-27 Envision, design and code Business Central agents with the AI development toolkit (public preview)
 
-With V27.4 minor update you can now envision, design, and code Business Central agents using the AI development toolkit.
+With the minor version 27.4 update you can now envision, design, and code Business Central agents using the AI development toolkit.
 
 Whether you're a consultant, product owner, domain expert, or developer, you can start the journey prototyping AI-powered agents directly in Business Central sandbox environments using an in-client agent design experience; no AL code required. Design prompts, test agent behavior against live UI and data, and validate scenarios, including with prospect customers, before you commit to a full AL implementation.
 
-When your are ready to productize your Business Central agents, you can use the AI development toolkit to implement the agents in AL. You can define the agent setup, the agent itself, as well as any integrations such as to email, triggers or job queue schedule, as well as any other app functionality that the agent might require, and deploy the resulting extension. In the public preview you can deploy to sandbox environments, including those with customer data, to try out the implementation.
+When you're ready to productize your Business Central agents, you can use the AI development toolkit to implement the agents in AL. You can define the agent setup, the agent itself, as well as any integrations such as to email, triggers or job queue schedule, and any other app functionality that the agent might require, and deploy the resulting extension. In the public preview you can deploy to sandbox environments, including those with customer data, to try out the implementation.
 
-We have also made it easier for you to get started with samples and templates. In the in-client agent design experience, you can create a test agent based on a sales validation sample. And when you move to developing the agent in AL code, you can start with the agent template when you create a new AL project in Visual Studio Code, to get the basic scaffolding and example of defining an agent in code.
+We've also made it easier for you to get started with samples and templates. In the in-client agent design experience, you can create a test agent based on a sales validation sample. And when you move to developing the agent in AL code, you can start with the agent template when you create a new AL project in Visual Studio Code, to get the basic scaffolding and example of defining an agent in code.
 
-Read more about the agent design experience and coding Business Central agents in AL with the AI development toolkit here [Designing and coding agents in Business Central (preview)](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/ai/ai-development-toolkit-landing-page). 
+Read more about the agent design experience and coding Business Central agents in AL with the AI development toolkit here [Designing and coding agents in Business Central (preview)](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/ai/ai-development-toolkit-landing-page). 
 
-Ramp up quickly with our new walkthrough videos that show you how to use the toolkit to design, test, and iterate on agents in Business Central. Check them out [aka.ms/BCDesignAgents](https://aka.ms/BCDesignAgents).
+Ramp up quickly with our new walkthrough videos that show you how to use the toolkit to design, test, and iterate on agents in Business Central. Check them out at [aka.ms/BCDesignAgents](https://aka.ms/BCDesignAgents).
 
 We'd love your feedback! Learn more about how you provide feedback [here](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/ai/ai-development-toolkit-faq#provide-feedback). 
 
