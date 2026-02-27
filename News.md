@@ -1,12 +1,14 @@
-# 2026-02-25 Envision, design and code Business Central agents with the AI development toolkit (public preview)
+# 2026-02-27 Envision, design and code Business Central agents with the AI development toolkit (public preview)
 
-With V27.4 minor update you can now envision, design and code Business Central agents using the AI development toolkit.
+With V27.4 minor update you can now envision, design, and code Business Central agents using the AI development toolkit.
 
-Whether you are a consultant, product owner, domain expert or developer, you can start the journey prototyping AI-powered agents directly in Business Central sandbox environments using an in-client agent design experience; no AL code required. Design prompts, test agent behavior against live UI and data, and validate scenarios, including with prospect customers, before you commit to a full AL implementation. 
+Whether you're a consultant, product owner, domain expert, or developer, you can start the journey prototyping AI-powered agents directly in Business Central sandbox environments using an in-client agent design experience; no AL code required. Design prompts, test agent behavior against live UI and data, and validate scenarios, including with prospect customers, before you commit to a full AL implementation.
 
 Available in sandbox environments starting with v27.2; the latest v27.4 minor update adds additional development options. Get started here [Designing and coding agents in Business Central (preview)](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/ai/ai-development-toolkit-landing-page). 
 
-We'd love your feedback! Learn more about how you provide feedback [here](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/ai/ai-development-toolkit-faq#provide-feedback). We'll update this post with a link to walkthrough videos soon.
+Ramp up quickly with our new walkthrough videos that show you how to use the toolkit to design, test, and iterate on agents in Business Central. Check them out [here](https://aka.ms/BCDesignAgents).
+
+We'd love your feedback! Learn more about how you provide feedback [here](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/ai/ai-development-toolkit-faq#provide-feedback). 
 
 # 2025-11-17 MCP Server for Business Central is now in public preview
 
