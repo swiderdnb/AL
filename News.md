@@ -5,29 +5,30 @@ The Business Central 2026 release wave 1 went live on April 1st and with it the 
 If you're a developer, we'd suggest the following titles to get you started on the latest additions and improvements:
 
 [What's new: AL Language](https://www.youtube.com/watch?v=nMiLzdfidos)  
+[What's new: Running tests from Visual studio code](https://www.youtube.com/watch?v=Rvgt_VXFr1I)  
+[What's new: Enhanced Analysis mode](https://www.youtube.com/watch?v=Afv-r-eDt90)  
+[What's new: AI development toolkit](https://www.youtube.com/watch?v=juUBVPfIp8A)  
+[What's new: Enhanced document reporting](https://www.youtube.com/watch?v=mS6NDhj20yI)  
 [What's new: Server and Database](https://www.youtube.com/watch?v=2u5_F9Ztt7U)  
 [What's new: Enhanced index management](https://www.youtube.com/watch?v=IAacWsvav1E)  
-[What's new: Running tests from Visual studio code](https://www.youtube.com/watch?v=Rvgt_VXFr1I)  
-[What's new: AI development toolkit](https://www.youtube.com/watch?v=juUBVPfIp8A)  
-[What's new: Admin Center MCP Server](https://www.youtube.com/watch?v=U1dAdtUjidc)  
-[What's new: Enhanced MCP Server](https://www.youtube.com/watch?v=0WAOtNaKjws)  
-[What's new: BC-Bench](https://www.youtube.com/watch?v=XGEDwzIZQj4)  
-[What's new: APIs for permissions, approvals, and documents](https://www.youtube.com/watch?v=dlJYM5ruvUc)  
-[What's new: Enhanced document reporting](https://www.youtube.com/watch?v=mS6NDhj20yI)  
+
 
 If you're interested in AI and Agents, this release introduces some exciting new agent capabilities. Consider diving into the topic with these sessions:
 
+[What's new: Business Central integration with Microsoft Copilot Studio](https://www.youtube.com/watch?v=GK6hM-nBYZk)  
+[What's new: Enhanced MCP Server](https://www.youtube.com/watch?v=0WAOtNaKjws)  
+[What's new: BC-Bench](https://www.youtube.com/watch?v=XGEDwzIZQj4)  
 [Introducing: Expense Agent in Business Central](https://www.youtube.com/watch?v=egE6UdOfar0)  
 [Introducing: Web App for Expense Agent](https://www.youtube.com/watch?v=q-udoJPGUKE)  
 [Introducing: Expense Management](https://www.youtube.com/watch?v=pjML7lXSsd0)  
 [Introducing: Approvals for the Expense Agent](https://www.youtube.com/watch?v=qZALauRY_So)  
 [What's new: Payables Agent](https://www.youtube.com/watch?v=OvI9jaA1mJY)  
-[What's new: Business Central integration with Microsoft Copilot Studio](https://www.youtube.com/watch?v=GK6hM-nBYZk)  
+
 
 Learn about the latest usability and productivity improvements in the Business Central web client:
 
 [What's new: Business Central user experience and productivity](https://www.youtube.com/watch?v=xJ8gYzvWnTI)  
-[What's new: Enhanced Analysis mode](https://www.youtube.com/watch?v=Afv-r-eDt90)  
+
 
 In this release wave, we continue to expand reporting and analytics capabilities. If that is your thing, check out these videos:
 
@@ -42,6 +43,7 @@ In this release wave, we continue to expand reporting and analytics capabilities
 
 For content about environment management and migrations, we suggest you watch the following video:
 
+[What's new: Admin Center MCP Server](https://www.youtube.com/watch?v=U1dAdtUjidc) 
 [What's new: Cloud Migration tooling](https://www.youtube.com/watch?v=6bX7Ab4KYMA)  
 [What's new: Cloud for Sovereignty](https://www.youtube.com/watch?v=n9HaH2dZUaU)  
 
@@ -51,6 +53,7 @@ Want to learn more about E-Documents and electronic invoices? Then consider this
 
 Watch content about new integration functionality and the Shopify connector in these videos:
 
+[What's new: APIs for permissions, approvals, and documents](https://www.youtube.com/watch?v=dlJYM5ruvUc)  
 [What's new: Shopify connector (overview)](https://www.youtube.com/watch?v=B-pxLlb-UN0)  
 [What's new in processing of presentment currencies in Shopify](https://www.youtube.com/watch?v=NMO822Jf_4E)  
 [What's new in product information management in Shopify connector](https://www.youtube.com/watch?v=6vHJQggN4F4)  
