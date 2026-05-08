@@ -1,6 +1,6 @@
 # 2026-05-11 Copilot in Business Central moves to GPT-5.3-chat
 
-Over the next three weeks, Copilot in Business Central is upgrading to GPT-5.3-chat as the default model. This update rolls out gradually to environments across all regions.
+From May through June, Copilot in Business Central is upgrading to GPT-5.3-chat as the default model. This update rolls out gradually to environments across all regions.
 
 **What's changing:**
 
