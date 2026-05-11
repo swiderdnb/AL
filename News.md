@@ -1,3 +1,22 @@
+# 2026-05-11 Copilot in Business Central moves to GPT-5.3-chat
+
+From May through June, Copilot in Business Central is upgrading to GPT-5.3-chat as the default model. This update rolls out gradually to environments across all regions.
+
+**What's changing:**
+
+- **New default model** — GPT-5.3-chat replaces the previous model, bringing improved quality and performance for Copilot features in Business Central.
+- **Model control for coded agents** — New methods when coding agents let you control model selection programmatically from AL.
+- **Model visibility and selection in agent design experience** - Administrators can see which language model their agents use and select their preferred model from the available options in the agent configuration page.
+
+
+**What to expect during rollout:**
+
+The model update and the new UI for model selection roll out independently. Your environment might receive GPT-5.3-chat before the model selection UI and new methods become available. During this period, Copilot continues to work as expected with the new model.
+
+Environments in the UK, India, and Australia will receive the update at a later date.
+
+If you want to switch models for your *designed* agents after the selection UI becomes available, you can do so from the **Agents** page in Business Central. For coded agents, use the new model selection methods to control which model your agent uses. For those of you having started on the journey of designing and coding agents, then we highly recommend evaluating your agents again once the model has updated, as agent behavior, as well as accuracy, might be impacted.
+
 # 2026-05-06 Business Central 2026 release wave 1 launch edition (BCLE) content for developers
 
 The Business Central 2026 release wave 1 went live on April 1st and with it the launch edition on YouTube was kicked off with videos on the latest innovations for Business Central. These videos contain high-quality content presented by product leaders to enable you to learn how to take Business Central to the next level as a developer. Visit the [Business Central YouTube channel](https://aka.ms/bcYoutube) to see what's available. We've produced a lot of content, and we guarantee you that it'll be worth the time you invest in it.
