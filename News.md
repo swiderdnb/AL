@@ -6,7 +6,7 @@ From May through June, Copilot in Business Central is upgrading to GPT-5.3-chat 
 
 - **New default model** — GPT-5.3-chat replaces the previous model, bringing improved quality and performance for Copilot features in Business Central.
 - **Model transparency for custom agents** — A new UI setting lets you see which model your custom agents are currently using and select your preferred model.
-- **Model control for SDK agents** — New methods in the agent SDK let you control model selection programmatically from code.
+- **Model control for coded agents** — New methods when coding agents let you control model selection programmatically from AL.
 
 **What to expect during rollout:**
 
