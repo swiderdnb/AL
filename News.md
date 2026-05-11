@@ -5,17 +5,16 @@ From May through June, Copilot in Business Central is upgrading to GPT-5.3-chat 
 **What's changing:**
 
 - **New default model** — GPT-5.3-chat replaces the previous model, bringing improved quality and performance for Copilot features in Business Central.
-- **Model transparency for custom agents** — A new UI setting lets you see which model your custom agents are currently using and select your preferred model.
+- **Model visibility and selection in agent design experience** - Administrators can see which language model their agents use and select their preferred model from the available options in the agent configuration page.
 - **Model control for coded agents** — New methods when coding agents let you control model selection programmatically from AL.
-- **Model visibility and selection in agent design experience** - Administrators can see which language model their agents use and select their preferred model from the available options in the agent setup page.
 
 **What to expect during rollout:**
 
-The model update and the new UI for model selection roll out independently. Your environment might receive GPT-5.3-chat before the model selection UI becomes available. During this period, Copilot continues to work as expected with the new model.
+The model update and the new UI for model selection roll out independently. Your environment might receive GPT-5.3-chat before the model selection UI and new methods become available. During this period, Copilot continues to work as expected with the new model.
 
 Environments in the UK, India, and Australia will receive the update at a later date.
 
-If you want to switch models for your custom agents after the selection UI becomes available, you can do so from the **Agents** page in Business Central. For coded agents, use the new model selection methods to control which model your agent uses. For those of you having started on the journey of designing and coding agents, then we highly recommend evaluating your agents again once the model has updated, as agent behavior, as well as accuracy, might be impacted.
+If you want to switch models for your *designed* agents after the selection UI becomes available, you can do so from the **Agents** page in Business Central. For coded agents, use the new model selection methods to control which model your agent uses. For those of you having started on the journey of designing and coding agents, then we highly recommend evaluating your agents again once the model has updated, as agent behavior, as well as accuracy, might be impacted.
 
 # 2026-05-06 Business Central 2026 release wave 1 launch edition (BCLE) content for developers
 
