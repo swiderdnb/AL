@@ -1,6 +1,6 @@
 # 2026-05-11 Agents in Business Central moves to GPT-5.3-chat
 
-From May through June, Agents in Business Central is upgrading to GPT-5.3-chat as the default model. This update rolls out gradually to environments across all regions.
+From May through June, agents in Business Central is upgrading to GPT-5.3-chat as the default model. This update rolls out gradually to environments across all regions.
 
 **What's changing:**
 
